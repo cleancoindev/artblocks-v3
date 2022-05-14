@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "i": "^0.3.6",
-    "npm": "^6.9.0"
+    "npm": "^7.21.0"
   },
   "devDependencies": {
     "openzeppelin-solidity": "2.3.0",
